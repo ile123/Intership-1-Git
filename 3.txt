@@ -1,7 +1,7 @@
-Ilario ima x pobjeda i y poraza!
-Iva ima n pobjeda i m poraza!
+Ilario ima 0 pobjeda i 2 poraza!
+Iva ima 2 pobjeda i 0 poraza!
 
-X   .   .
+X   .   O
 
 .   O   .
 
